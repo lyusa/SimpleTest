@@ -3,3 +3,4 @@
 	create by liusha
 	
 */
+String str = "ss";
